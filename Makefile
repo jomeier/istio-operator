@@ -13,6 +13,7 @@
 ## limitations under the License.
 
 -include Makefile.overrides
+-include opo-makefile-new-bundle-format.mk
 
 MAISTRA_VERSION        ?= 1.1.8
 MAISTRA_BRANCH         ?= maistra-1.1
